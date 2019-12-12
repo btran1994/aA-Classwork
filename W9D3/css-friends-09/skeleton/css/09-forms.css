@@ -1,0 +1,18 @@
+/* PHASE 9: Forms */
+.thumb {
+  display: block;
+  /* position: relative; */
+  width: 58px;
+  height: 58px;
+  /* border: 1px solid #000; */
+  border-radius: 5px;
+  padding: 19px;
+  
+}
+
+fieldset {
+    float: left;
+    /* position: relative; */
+    /* display: inline-flex; */
+    background-color: burlywood;
+}

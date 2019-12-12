@@ -1,0 +1,31 @@
+/* PHASE 7: Online */
+.profile-picture {
+
+}
+
+.online {
+    /* -webkit-transform: rotate(-90deg); 
+     -moz-transform: rotate(-90deg); 
+      -ms-transform: rotate(-90deg); 
+       -o-transform: rotate(-90deg);  */
+    transform: rotate(-225deg); 
+    border: 25px solid transparent;
+    border-top: 25px solid greenyellow;
+    position: absolute;
+    top: 0px;
+    left: -35px;
+    padding: 0 5px;
+    width: 60px;
+    /* background-color:black; */
+    font-family: sans-serif;
+    size: 11px;
+    /* height: 200px; */
+}
+
+.online .text {
+    
+    transform: rotate(180deg);
+    position: absolute;
+    top: -22px;
+    left: 12px;
+}​

@@ -1,0 +1,20 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 156px;
+    padding: 0; 
+    border: 1px black solid;
+    /* border: 5px black solid; */
+}
+
+ul li {
+    width: 50px;
+    height: 50px;
+    border: 1px black solid;
+    list-style: none;
+    background: gray;
+}
+
+li:hover {
+    background: yellow;
+}
